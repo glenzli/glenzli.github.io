@@ -4,14 +4,16 @@
       "name": "paper-vueify",
       "description": "Paper-vueify is an adaptor from paper.js to vue. By combine the drawing ability of paper.js and data-driven mode of vue framework, the library provides a really nice workflow for data visualization and light-weight data-driven animation editiong.",
       "background": "#2f2f2f",
-      "color": "#eee"
+      "color": "#eee",
+      "source": "git"
     },
 
     {
       "name": "animate-z",
       "description": "Animate Z is an online canvas animation editor tool, providing varies of features to make your animation based on html easy and smooth, without any concerns for writing code. The software is still under development, you can goto the github page for more details.",
       "background": "#fafafa",
-      "color": "#222"
+      "color": "#222",
+      "source": "git"
     }
   ]
 }
