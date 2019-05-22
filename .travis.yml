@@ -3,7 +3,7 @@ node_js:
   - "10"
 
 script:
-  - if [ "$TRAVIS_BRANCH" == "develope" ]; then npm run build; fi
+  - if [ "$TRAVIS_BRANCH" == "develop" ]; then npm run build; fi
 
 deploy:
   provider: pages
@@ -13,4 +13,4 @@ deploy:
   local_dir: dist
   target-branch: master
   on:
-    branch: develope
+    branch: develop
