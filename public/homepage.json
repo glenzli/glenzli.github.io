@@ -6,14 +6,6 @@
       "background": "#2f2f2f",
       "color": "#eee",
       "source": "git"
-    },
-
-    {
-      "name": "animate-z",
-      "description": "Animate Z is an online canvas animation editor tool, providing varies of features to make your animation based on html easy and smooth, without any concerns for writing code. The software is still under development, you can goto the github page for more details.",
-      "background": "#fafafa",
-      "color": "#222",
-      "source": "git"
     }
   ]
 }

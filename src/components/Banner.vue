@@ -31,7 +31,7 @@ export default class Banner extends Vue {
   Link() {
     let url = ''
     switch (this.source) {
-      case 'git': url = `https://github.com/luz-alphacode/${this.name}`; break
+      case 'git': url = `https://github.com/glenzli/${this.name}`; break
       default: break
     }
     if (url.length > 0) {
@@ -40,7 +40,7 @@ export default class Banner extends Vue {
   }
 
   Redirect() {
-    window.location.href = `https://luz-alphacode.github.io/${this.name}`
+    window.location.href = `https://glenzli.github.io/${this.name}`
   }
 }
 </script>

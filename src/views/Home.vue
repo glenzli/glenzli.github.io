@@ -1,12 +1,9 @@
 <template>
   <div class="home">
     <div class="hybrid-title">
-      <img class="logo" src="../assets/luz.png"/>
       <div class="title">
-        <strong>Luz's Log</strong>:
-        <a class="plink" href="https://github.com/luz-alphacode">Code</a>
-        <span> &amp; </span>
-        <a class="plink" href="https://500px.com/luzplogs">Photography</a>
+        <strong>Glen's Log</strong>:
+        <a class="plink" href="https://github.com/glenzli">Code Gallery</a>
       </div>
     </div>
     <banner-set></banner-set>
